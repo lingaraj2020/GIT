@@ -10,3 +10,7 @@ function addednewfeat(){
     console.log("added new feature");
     console.log("added a new feat A");
 }
+
+function addedagain(){
+    console.log("it checked feat");
+}

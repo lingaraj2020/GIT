@@ -14,3 +14,6 @@ function addednewfeat(){
 function addedagain(){
     console.log("it checked feat all");
 }
+function addedC(){
+    console.log("added feature c");
+}

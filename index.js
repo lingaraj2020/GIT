@@ -8,9 +8,9 @@ function sayname(){
 
 function addednewfeat(){
     console.log("added new feature");
-    console.log("added a new feat A");
+    console.log("added a new feat B");
 }
 
 function addedagain(){
-    console.log("it checked feat");
+    console.log("it checked feat all");
 }

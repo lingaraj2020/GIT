@@ -8,4 +8,5 @@ function sayname(){
 
 function addednewfeat(){
     console.log("added new feature");
+    console.log("added a new feat A");
 }

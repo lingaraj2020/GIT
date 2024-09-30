@@ -17,4 +17,5 @@ function addedagain(){
 function addedC(){
     console.log("added feature c");
     console.log("added feat c pro");
+    console.log("added feat c pro max");
 }
